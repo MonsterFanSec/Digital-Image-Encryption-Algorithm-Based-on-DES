@@ -85,3 +85,5 @@ Decrypted image: decrypted_ img.png
 2. During initial encryption, only the original image: original_ Img.png and code files, and other files are automatically generated when the program runs
 
 3. Please use python 3 to run the code and ensure that the corresponding library files have been installed correctly
+
+(●'◡'●)
