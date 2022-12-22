@@ -27,9 +27,12 @@ DES填充模式：PKCS#5
 	加密后的分组信息：encrypt_data.txt
 	加密后的图像：encrypted_img.png
 	解密后的图像：decrypted_img.png
+	
 *注意*
 	1.由于DES密钥和IV向量每次都是随机生成的，请按照指定代码文件顺序运行代码或直接运行6三重DES和CBC分组加密实现.py
+	
 	2.初始加密时仅需保留原始图像：original_img.png和代码文件，其余文件均为程序运行时自动生成的文件
+	
 	3.请使用python3运行代码，同时确保相应的库文件已经正确安装
 	
 
