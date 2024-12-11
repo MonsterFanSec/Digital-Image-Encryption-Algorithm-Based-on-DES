@@ -1,5 +1,6 @@
 #encoding=utf-8
 '''
+Author: MonsterFanSec
 5密文图像解密:
 	说明:本代码旨在利用加密后的图像和密钥文件keys.txt解密
 	像数值数据并恢复密文图像

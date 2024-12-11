@@ -1,5 +1,6 @@
 #encoding=utf-8
 '''
+Author: MonsterFanSec
 4密文图像显示:
 	说明:本代码旨在将加密后像素值重新绘制成密文图像
 '''

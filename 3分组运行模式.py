@@ -1,5 +1,6 @@
 #encoding=utf-8
 '''
+Author: MonsterFanSec
 3分组运行模式:
 	说明:本代码旨在利用密码分组链接(CBC)模式对明文分组进行加密，
 	选用三重DES加密模式进行加密

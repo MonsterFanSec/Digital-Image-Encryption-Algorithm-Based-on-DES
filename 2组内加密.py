@@ -1,5 +1,6 @@
 #encoding=utf-8
 '''
+Author: MonsterFanSec
 2组内加密:
 	说明:本代码旨在将得到的分组后的数据进行DES加密的处理，这里可以选用
 	二重DES或三重DES加密算法，以提升加密的安全性
